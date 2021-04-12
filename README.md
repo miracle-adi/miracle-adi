@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @miracle-adi
-- 👀 I’m interested in web development ...
-- 🌱 I’m currently learning javascipt frameworks such as React JS and VUE JS...
+- 👀 I’m interested in web development and love to create that would be useful!
+- 🌱 I’m currently learning javascipt frameworks such as React JS and VUE JS
 
 
 
